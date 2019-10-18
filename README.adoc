@@ -12,3 +12,4 @@ This is an example JEE application to be used in the Advanced OpenShift Developm
 You are expected to clone this repository into your own public repository (GitHub, Gogs, Gitlab). This repository needs to be accessible to the instructor.
 
 Your Homework assignment will be graded by executing the pipeline at https://github.com/redhat-gpte-devopsautomation/advdev_homework_grading.
+data been uploaded
